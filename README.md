@@ -1,2 +1,2 @@
 # JS_starter
-easy stater for js code
+easy starter for js code
